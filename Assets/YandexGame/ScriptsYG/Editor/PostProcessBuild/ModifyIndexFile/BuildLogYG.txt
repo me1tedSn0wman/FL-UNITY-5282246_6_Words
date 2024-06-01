@@ -1,0 +1,2 @@
+Build path: C:/Projects/UnityProjects/5282246_6_Words/Builds/WebGL
+Build number: 9
